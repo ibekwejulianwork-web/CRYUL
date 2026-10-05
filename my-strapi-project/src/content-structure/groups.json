@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sections": {
+    "collectionTypes": {
+      "groups": [
+        {
+          "parent": null,
+          "name": "text",
+          "id": "grp_bc600f8f9be940d8bcbd444e",
+          "children": [
+            {
+              "uid": "api::post.post",
+              "type": "contentType"
+            }
+          ]
+        }
+      ]
+    },
+    "singleTypes": {
+      "groups": []
+    }
+  }
+}
