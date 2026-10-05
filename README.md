@@ -8,7 +8,7 @@ This repository is the copy kept on GitHub. Day-to-day work stays in the origina
 
 | Folder | What it is |
 | --- | --- |
-| `cryul-web` | The website. Open [its README](cryul-web/README.md) for pages, prices, and how to start it. |
+| `cryul-web` | The website: prices, articles, and the About page. |
 | `my-strapi-project` | The content desk for the About page and the articles. Admin, when it is running: [http://localhost:1337/admin](http://localhost:1337/admin). |
 | `portfolio-project` | Reserved for the portfolio. It will become a page of the site. It is empty for now. |
 
